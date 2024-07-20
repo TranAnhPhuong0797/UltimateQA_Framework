@@ -11,14 +11,14 @@
   <test thread-count="5" name="Run on Firefox(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Wishlist_Compare_RecentView">
+      <class name="com.ultimateqa.testcases.FirstTest_UltimateQA">
         <methods>
           <include name="initBeforeSuite"/>
           <include name="beforeClass"/>
+          <include name="Test02_VerifyFooter" invocation-numbers="0"/>
           <include name="afterClass"/>
-          <include name="Wishlist_01_Add_To_Wishlist" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Wishlist_Compare_RecentView -->
+      </class> <!-- com.ultimateqa.testcases.FirstTest_UltimateQA -->
     </classes>
   </test> <!-- Run on Firefox(failed) -->
 </suite> <!-- Failed suite [Nopcommerce] -->

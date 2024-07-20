@@ -1,1 +1,6 @@
 /target/
+/test-output/
+/reportNGImage/
+/scriptLogs/
+/extentV5/
+/allure-json/

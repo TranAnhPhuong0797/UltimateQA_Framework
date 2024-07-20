@@ -12,7 +12,7 @@
 <body>
 <h1>Run on Firefox</h1>
 <p>
-  Test duration: 15.191s
+  Test duration: 35.896s
 </p>
 
 
@@ -20,48 +20,32 @@
   <table class="resultsTable">
     <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
           <tr>
-        <td colspan="3" class="group">com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase</td>
+        <td colspan="3" class="group">com.ultimateqa.testcases.FirstTest_UltimateQA</td>
       </tr>
             
 <tr>
   <td class="method">
-                  MyAccount_03_ChangePassword
+                  Test02_VerifyFooter
       </td>
   <td class="duration">
-    1.002s
+    30.312s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_03_ChangePassword(java.lang.reflect.Method)</span><br />
+          <i>Method arguments: </i><span class="arguments">public void com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(java.lang.reflect.Method)</span><br />
     
             <div class="testOutput">
-                        <br><a target="_blank" href="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_03_ChangePassword_15_10_2023_11_16_19.png"><img src="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_03_ChangePassword_15_10_2023_11_16_19.png" height='100' width='150'/> </a></br>
+                        <br><a target="_blank" href="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png"><img src="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png" height='100' width='150'/> </a></br>
                   </div>
     
 
-        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.ElementClickInterceptedException: Element &lt;a class=&quot;ico-logout&quot; href=&quot;/logout&quot;&gt; is not clickable at point (1271,22) because another element &lt;p class=&quot;content&quot;&gt; obscures it<br/>
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;<br/>
-System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;<br/>
-Driver info: org.openqa.selenium.firefox.FirefoxDriver<br/>
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8356, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}<br/>
-Session ID: 443cce9e-60c4-4be1-b051-4c1834574325</b></a><br />
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)] (tried for 30 second(s) with 500 milliseconds interval)</b></a><br />
     <div class="stackTrace" id="exception-0">
-              java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
-              java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)<br />
-              java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
-              java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)<br />
-              java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)<br />
-              org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)<br />
-              org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)<br />
-              org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)<br />
-              org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)<br />
-              org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)<br />
-              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)<br />
-              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)<br />
-              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)<br />
-              common.BasePage.clickToElement(BasePage.java:222)<br />
-              pageObject.nopcommerce.portal.UserRegisterPageObject.clickToLogoutLink(UserRegisterPageObject.java:103)<br />
-              com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_03_ChangePassword(LiveCoding_nopcommerce_MyAccount_TestCase.java:175)<br />
+              org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)<br />
+              org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)<br />
+              common.BasePage.waitForElementVisible(BasePage.java:602)<br />
+              pageObject.ultimateQA.PageObjectUltimateQAautomation.verifyFooterVisible(PageObjectUltimateQAautomation.java:21)<br />
+              com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(FirstTest_UltimateQA.java:40)<br />
               java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
               java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)<br />
               java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
@@ -85,76 +69,64 @@ Session ID: 443cce9e-60c4-4be1-b051-4c1834574325</b></a><br />
               org.testng.TestNG.runSuites(TestNG.java:1049)<br />
               org.testng.TestNG.run(TestNG.java:1017)<br />
               org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)<br />
-              org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)<br />
-              org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)<br />
-                </div>
-      </td>
-</tr>
-<tr>
-  <td class="method">
-                  MyAccount_04_MyProduct_Reviews
-      </td>
-  <td class="duration">
-    3.728s
-  </td>
-  <td class="result">
-        
-          <i>Method arguments: </i><span class="arguments">public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_04_MyProduct_Reviews(java.lang.reflect.Method)</span><br />
-    
-            <div class="testOutput">
-                        <br><a target="_blank" href="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_04_MyProduct_Reviews_15_10_2023_11_16_23.png"><img src="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_04_MyProduct_Reviews_15_10_2023_11_16_23.png" height='100' width='150'/> </a></br>
-                  </div>
-    
-
-        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.InvalidElementStateException: Element is disabled: &lt;input id=&quot;AddProductReview_Title&quot; class=&quot;review-title&quot; name=&quot;AddProductReview.Title&quot; type=&quot;text&quot;&gt;<br/>
+              org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)<br />
+              org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)<br />
+                    <b>Caused by: </b> <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse">org.openqa.selenium.InvalidSelectorException: Given xpath expression &quot;///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)]&quot; is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression<br/>
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html<br/>
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;<br/>
-System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;<br/>
+System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;172.22.128.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;<br/>
 Driver info: org.openqa.selenium.firefox.FirefoxDriver<br/>
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8356, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}<br/>
-Session ID: 443cce9e-60c4-4be1-b051-4c1834574325</b></a><br />
-    <div class="stackTrace" id="exception-1">
-              java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
-              java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)<br />
-              java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
-              java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)<br />
-              java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)<br />
-              org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)<br />
-              org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)<br />
-              org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)<br />
-              org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)<br />
-              org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)<br />
-              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)<br />
-              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)<br />
-              org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)<br />
-              common.BasePage.sendkeyToElement(BasePage.java:267)<br />
-              common.BasePage.inputToTextboxByID(BasePage.java:711)<br />
-              com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_04_MyProduct_Reviews(LiveCoding_nopcommerce_MyAccount_TestCase.java:218)<br />
-              java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
-              java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)<br />
-              java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
-              java.base/java.lang.reflect.Method.invoke(Method.java:568)<br />
-              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)<br />
-              org.testng.internal.Invoker.invokeMethod(Invoker.java:583)<br />
-              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)<br />
-              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)<br />
-              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
-              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
-              org.testng.TestRunner.privateRun(TestRunner.java:648)<br />
-              org.testng.TestRunner.run(TestRunner.java:505)<br />
-              org.testng.SuiteRunner.runTest(SuiteRunner.java:455)<br />
-              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)<br />
-              org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)<br />
-              org.testng.SuiteRunner.run(SuiteRunner.java:364)<br />
-              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
-              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)<br />
-              org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)<br />
-              org.testng.TestNG.runSuitesLocally(TestNG.java:1137)<br />
-              org.testng.TestNG.runSuites(TestNG.java:1049)<br />
-              org.testng.TestNG.run(TestNG.java:1017)<br />
-              org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)<br />
-              org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)<br />
-              org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)<br />
-                </div>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23604, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}<br/>
+Session ID: 3287cdad-57ef-47c7-9ffe-f3788f89707b<br/>
+*** Element info: {Using=xpath, value=///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)]}</a><br />
+        <div class="stackTrace" id="exception-1">
+                      jdk.internal.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)<br />
+                      java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+                      java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)<br />
+                      java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)<br />
+                      org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)<br />
+                      org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)<br />
+                      org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)<br />
+                      org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)<br />
+                      org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)<br />
+                      org.openqa.selenium.By$ByXPath.findElement(By.java:353)<br />
+                      org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)<br />
+                      org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)<br />
+                      org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)<br />
+                      common.BasePage.waitForElementVisible(BasePage.java:602)<br />
+                      pageObject.ultimateQA.PageObjectUltimateQAautomation.verifyFooterVisible(PageObjectUltimateQAautomation.java:21)<br />
+                      com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(FirstTest_UltimateQA.java:40)<br />
+                      java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+                      java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)<br />
+                      java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+                      java.base/java.lang.reflect.Method.invoke(Method.java:568)<br />
+                      org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)<br />
+                      org.testng.internal.Invoker.invokeMethod(Invoker.java:583)<br />
+                      org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)<br />
+                      org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)<br />
+                      org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+                      org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+                      org.testng.TestRunner.privateRun(TestRunner.java:648)<br />
+                      org.testng.TestRunner.run(TestRunner.java:505)<br />
+                      org.testng.SuiteRunner.runTest(SuiteRunner.java:455)<br />
+                      org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)<br />
+                      org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)<br />
+                      org.testng.SuiteRunner.run(SuiteRunner.java:364)<br />
+                      org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+                      org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)<br />
+                      org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)<br />
+                      org.testng.TestNG.runSuitesLocally(TestNG.java:1137)<br />
+                      org.testng.TestNG.runSuites(TestNG.java:1049)<br />
+                      org.testng.TestNG.run(TestNG.java:1017)<br />
+                      org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)<br />
+                      org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)<br />
+                      org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)<br />
+                  </div>
+          </div>
       </td>
 </tr>
       </table>
@@ -163,34 +135,19 @@ Session ID: 443cce9e-60c4-4be1-b051-4c1834574325</b></a><br />
   <table class="resultsTable">
     <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
           <tr>
-        <td colspan="3" class="group">com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase</td>
+        <td colspan="3" class="group">com.ultimateqa.testcases.FirstTest_UltimateQA</td>
       </tr>
             
 <tr>
   <td class="method">
-                  MyAccount_01_CustomerInfor
+                  Test01_VerifyHeader
       </td>
   <td class="duration">
-    1.634s
+    0.263s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_01_CustomerInfor(java.lang.reflect.Method)</span><br />
-    
-        
-
-      </td>
-</tr>
-<tr>
-  <td class="method">
-                  MyAccount_02_Address
-      </td>
-  <td class="duration">
-    1.900s
-  </td>
-  <td class="result">
-        
-          <i>Method arguments: </i><span class="arguments">public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_02_Address(java.lang.reflect.Method)</span><br />
+          <i>Method arguments: </i><span class="arguments">public void com.ultimateqa.testcases.FirstTest_UltimateQA.Test01_VerifyHeader(java.lang.reflect.Method)</span><br />
     
         
 

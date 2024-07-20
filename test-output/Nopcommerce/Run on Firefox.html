@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Run on Firefox</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>2/2/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sun Oct 15 11:16:08 ICT 2023</td>
+<td>Started on:</td><td>Sat Jul 20 14:21:16 ICT 2024</td>
 </tr>
-<tr><td>Total time:</td><td>15 seconds (15503 ms)</td>
+<tr><td>Total time:</td><td>36 seconds (36085 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,54 +75,49 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_03_ChangePassword()'><b>MyAccount_03_ChangePassword</b><br>Test class: com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase<br>Parameters: public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_03_ChangePassword(java.lang.reflect.Method)<br/>
-<a href="#Output-1891405936" onClick='toggleBox("Output-1891405936", this, "Show output", "Hide output");'>Show output</a>
+<td title='com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter()'><b>Test02_VerifyFooter</b><br>Test class: com.ultimateqa.testcases.FirstTest_UltimateQA<br>Parameters: public void com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(java.lang.reflect.Method)<br/>
+<a href="#Output-2078237101" onClick='toggleBox("Output-2078237101", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1891405936" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1891405936">
-<br><a target="_blank" href="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_03_ChangePassword_15_10_2023_11_16_19.png"><img src="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_03_ChangePassword_15_10_2023_11_16_19.png" height='100' width='150'/> </a></br><br/>
+<a href="#Output-2078237101" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2078237101">
+<br><a target="_blank" href="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png"><img src="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png" height='100' width='150'/> </a></br><br/>
 </div>
 </td>
-<td><div><pre>org.openqa.selenium.ElementClickInterceptedException: Element &lt;a class=&quot;ico-logout&quot; href=&quot;/logout&quot;&gt; is not clickable at point (1271,22) because another element &lt;p class=&quot;content&quot;&gt; obscures it
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at common.BasePage.waitForElementVisible(BasePage.java:602)
+	at pageObject.ultimateQA.PageObjectUltimateQAautomation.verifyFooterVisible(PageObjectUltimateQAautomation.java:21)
+	at com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(FirstTest_UltimateQA.java:40)
+Caused by: org.openqa.selenium.InvalidSelectorException: Given xpath expression &quot;///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)]&quot; is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
+System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;172.22.128.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8356, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23604, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3287cdad-57ef-47c7-9ffe-f3788f89707b
+*** Element info: {Using=xpath, value=///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)]}
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at common.BasePage.clickToElement(BasePage.java:222)
-	at pageObject.nopcommerce.portal.UserRegisterPageObject.clickToLogoutLink(UserRegisterPageObject.java:103)
-	at com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_03_ChangePassword(LiveCoding_nopcommerce_MyAccount_TestCase.java:175)
-... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1891405936", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1891405936'><pre>org.openqa.selenium.ElementClickInterceptedException: Element &lt;a class=&quot;ico-logout&quot; href=&quot;/logout&quot;&gt; is not clickable at point (1271,22) because another element &lt;p class=&quot;content&quot;&gt; obscures it
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8356, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at common.BasePage.clickToElement(BasePage.java:222)
-	at pageObject.nopcommerce.portal.UserRegisterPageObject.clickToLogoutLink(UserRegisterPageObject.java:103)
-	at com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_03_ChangePassword(LiveCoding_nopcommerce_MyAccount_TestCase.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 28 more
+... Removed 29 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2078237101", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2078237101'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at common.BasePage.waitForElementVisible(BasePage.java:602)
+	at pageObject.ultimateQA.PageObjectUltimateQAautomation.verifyFooterVisible(PageObjectUltimateQAautomation.java:21)
+	at com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(FirstTest_UltimateQA.java:40)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -146,46 +141,17 @@ Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
 	at org.testng.TestNG.runSuites(TestNG.java:1049)
 	at org.testng.TestNG.run(TestNG.java:1017)
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div></td>
-<td>1</td>
-<td>com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase@17b6d426</td></tr>
-<tr>
-<td title='com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_04_MyProduct_Reviews()'><b>MyAccount_04_MyProduct_Reviews</b><br>Test class: com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase<br>Parameters: public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_04_MyProduct_Reviews(java.lang.reflect.Method)<br/>
-<a href="#Output-1242124176" onClick='toggleBox("Output-1242124176", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1242124176" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1242124176">
-<br><a target="_blank" href="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_04_MyProduct_Reviews_15_10_2023_11_16_23.png"><img src="file:///E:\Khoa Hoc Automation\Project\04- Maven Hybrid Framwork\reportNGImage\MyAccount_04_MyProduct_Reviews_15_10_2023_11_16_23.png" height='100' width='150'/> </a></br><br/>
-</div>
-</td>
-<td><div><pre>org.openqa.selenium.InvalidElementStateException: Element is disabled: &lt;input id=&quot;AddProductReview_Title&quot; class=&quot;review-title&quot; name=&quot;AddProductReview.Title&quot; type=&quot;text&quot;&gt;
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: org.openqa.selenium.InvalidSelectorException: Given xpath expression &quot;///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)]&quot; is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
+System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;172.22.128.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8356, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
-	at common.BasePage.sendkeyToElement(BasePage.java:267)
-	at common.BasePage.inputToTextboxByID(BasePage.java:711)
-	at com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_04_MyProduct_Reviews(LiveCoding_nopcommerce_MyAccount_TestCase.java:218)
-... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1242124176", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1242124176'><pre>org.openqa.selenium.InvalidElementStateException: Element is disabled: &lt;input id=&quot;AddProductReview_Title&quot; class=&quot;review-title&quot; name=&quot;AddProductReview.Title&quot; type=&quot;text&quot;&gt;
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-NSTF48G&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 8356, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23604, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3287cdad-57ef-47c7-9ffe-f3788f89707b
+*** Element info: {Using=xpath, value=///footer//*[contains(@id,&apos;menu-footer-main-menu&apos;)]//*[contains(text(),&apos;Java SDET Academy&apos;)]}
+	at jdk.internal.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)
 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
@@ -195,39 +161,17 @@ Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
-	at common.BasePage.sendkeyToElement(BasePage.java:267)
-	at common.BasePage.inputToTextboxByID(BasePage.java:711)
-	at com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_04_MyProduct_Reviews(LiveCoding_nopcommerce_MyAccount_TestCase.java:218)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-	at org.testng.TestRunner.privateRun(TestRunner.java:648)
-	at org.testng.TestRunner.run(TestRunner.java:505)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-	at org.testng.TestNG.runSuites(TestNG.java:1049)
-	at org.testng.TestNG.run(TestNG.java:1017)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 28 more
 </pre></div></td>
-<td>3</td>
-<td>com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase@17b6d426</td></tr>
+<td>30</td>
+<td>com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -237,15 +181,10 @@ Session ID: 443cce9e-60c4-4be1-b051-4c1834574325
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_01_CustomerInfor()'><b>MyAccount_01_CustomerInfor</b><br>Test class: com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase<br>Parameters: public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_01_CustomerInfor(java.lang.reflect.Method)</td>
+<td title='com.ultimateqa.testcases.FirstTest_UltimateQA.Test01_VerifyHeader()'><b>Test01_VerifyHeader</b><br>Test class: com.ultimateqa.testcases.FirstTest_UltimateQA<br>Parameters: public void com.ultimateqa.testcases.FirstTest_UltimateQA.Test01_VerifyHeader(java.lang.reflect.Method)</td>
 <td></td>
-<td>1</td>
-<td>com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase@17b6d426</td></tr>
-<tr>
-<td title='com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_02_Address()'><b>MyAccount_02_Address</b><br>Test class: com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase<br>Parameters: public void com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase.MyAccount_02_Address(java.lang.reflect.Method)</td>
-<td></td>
-<td>1</td>
-<td>com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase@17b6d426</td></tr>
+<td>0</td>
+<td>com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9</td></tr>
 </table><p>
 </body>
 </html>

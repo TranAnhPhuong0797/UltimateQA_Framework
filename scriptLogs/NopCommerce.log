@@ -263,3 +263,1301 @@
 [2023-10-15 11:16:13,223] Preconditions - Step 02: Register new User account
 [2023-10-15 11:16:13,767] Preconditions - Step 03: Navigate to Login page
 [2023-10-15 11:16:14,103] Preconditions - Step 04: Login new User
+[2023-10-17 10:04:12,913] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:04:13,868] Preconditions - Step 02: Register new User account
+[2023-10-17 10:04:14,677] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:16:27,774] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:16:28,714] Preconditions - Step 02: Register new User account
+[2023-10-17 10:16:29,244] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:16:29,595] Preconditions - Step 04: Login new User
+[2023-10-17 10:16:30,246] Preconditions - Step 05: Select any product in Home Page
+[2023-10-17 10:17:51,994] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:17:52,927] Preconditions - Step 02: Register new User account
+[2023-10-17 10:17:53,455] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:17:53,799] Preconditions - Step 04: Login new User
+[2023-10-17 10:17:54,468] Preconditions - Step 05: Select any product in Home Page
+[2023-10-17 10:46:24,730] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:46:26,501] Preconditions - Step 02: Register new User account
+[2023-10-17 10:46:27,297] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:46:27,974] Preconditions - Step 04: Login new User
+[2023-10-17 10:46:28,980] Preconditions - Step 05: Select any product in Home Page
+[2023-10-17 10:49:15,986] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:49:18,597] Preconditions - Step 02: Register new User account
+[2023-10-17 10:49:20,007] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:49:21,456] Preconditions - Step 04: Login new User
+[2023-10-17 10:49:23,038] Preconditions - Step 05: Select any product in Home Page
+[2023-10-17 10:50:26,172] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:50:27,053] Preconditions - Step 02: Register new User account
+[2023-10-17 10:50:27,583] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:50:27,960] Preconditions - Step 04: Login new User
+[2023-10-17 10:50:28,639] Preconditions - Step 05: Select any product in Home Page
+[2023-10-17 10:52:49,311] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 10:52:50,248] Preconditions - Step 02: Register new User account
+[2023-10-17 10:52:50,758] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 10:52:51,112] Preconditions - Step 04: Login new User
+[2023-10-17 10:52:51,750] Preconditions - Step 05: Select any product in Home Page
+[2023-10-17 11:07:09,263] Preconditions - Step 01: Navigate to Register Page
+[2023-10-17 11:07:10,210] Preconditions - Step 02: Register new User account
+[2023-10-17 11:07:10,726] Preconditions - Step 03: Navigate to Login page
+[2023-10-17 11:07:11,071] Preconditions - Step 04: Login new User
+[2023-10-17 11:07:11,734] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 09:53:38,485] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 09:53:39,433] Preconditions - Step 02: Register new User account
+[2023-10-18 09:53:40,222] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 09:53:40,576] Preconditions - Step 04: Login new User
+[2023-10-18 09:53:41,233] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:27:13,272] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:27:15,130] Preconditions - Step 02: Register new User account
+[2023-10-18 10:27:15,687] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:27:16,065] Preconditions - Step 04: Login new User
+[2023-10-18 10:27:16,753] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:32:42,285] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:32:43,221] Preconditions - Step 02: Register new User account
+[2023-10-18 10:32:43,760] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:32:44,104] Preconditions - Step 04: Login new User
+[2023-10-18 10:32:44,765] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:34:41,173] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:34:42,122] Preconditions - Step 02: Register new User account
+[2023-10-18 10:34:42,661] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:34:42,998] Preconditions - Step 04: Login new User
+[2023-10-18 10:34:43,646] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:37:35,980] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:37:36,943] Preconditions - Step 02: Register new User account
+[2023-10-18 10:37:37,455] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:37:37,796] Preconditions - Step 04: Login new User
+[2023-10-18 10:37:38,447] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:39:20,185] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:40:21,137] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:40:22,100] Preconditions - Step 02: Register new User account
+[2023-10-18 10:40:22,903] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:40:23,245] Preconditions - Step 04: Login new User
+[2023-10-18 10:40:23,909] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:45:46,450] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:45:47,400] Preconditions - Step 02: Register new User account
+[2023-10-18 10:45:47,937] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:45:48,282] Preconditions - Step 04: Login new User
+[2023-10-18 10:45:48,953] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:47:07,502] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:47:08,463] Preconditions - Step 02: Register new User account
+[2023-10-18 10:47:08,988] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:47:09,329] Preconditions - Step 04: Login new User
+[2023-10-18 10:47:09,983] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:48:03,755] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:48:04,714] Preconditions - Step 02: Register new User account
+[2023-10-18 10:48:05,238] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:48:05,575] Preconditions - Step 04: Login new User
+[2023-10-18 10:48:06,225] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:48:59,173] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:49:00,177] Preconditions - Step 02: Register new User account
+[2023-10-18 10:49:00,704] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:49:01,042] Preconditions - Step 04: Login new User
+[2023-10-18 10:49:01,759] Preconditions - Step 05: Select any product in Home Page
+[2023-10-18 10:50:38,312] Preconditions - Step 01: Navigate to Register Page
+[2023-10-18 10:50:39,311] Preconditions - Step 02: Register new User account
+[2023-10-18 10:50:39,839] Preconditions - Step 03: Navigate to Login page
+[2023-10-18 10:50:40,192] Preconditions - Step 04: Login new User
+[2023-10-18 10:50:40,904] Preconditions - Step 05: Select any product in Home Page
+[2023-10-19 08:57:41,440] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 08:57:41,870] Preconditions - Step 02: Register new User account
+[2023-10-19 08:57:42,666] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 08:57:43,012] Preconditions - Step 04: Login new User
+[2023-10-19 08:57:43,669] Preconditions - Step 05: Select any product in Home Page
+[2023-10-19 09:12:41,620] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 09:12:42,588] Preconditions - Step 02: Register new User account
+[2023-10-19 09:12:43,114] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 09:12:43,439] Preconditions - Step 04: Login new User
+[2023-10-19 09:12:44,221] Preconditions - Step 05: Select any product in Home Page
+[2023-10-19 09:15:17,542] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 09:15:18,483] Preconditions - Step 02: Register new User account
+[2023-10-19 09:15:19,008] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 09:15:19,355] Preconditions - Step 04: Login new User
+[2023-10-19 09:15:20,064] Preconditions - Step 05: Select any product in Home Page
+[2023-10-19 09:19:51,121] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 09:19:53,021] Preconditions - Step 02: Register new User account
+[2023-10-19 09:19:54,322] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 09:19:55,557] Preconditions - Step 04: Login new User
+[2023-10-19 09:20:00,869] Preconditions - Step 05: Select any product in Home Page
+[2023-10-19 09:59:57,717] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 09:59:58,675] Preconditions - Step 02: Register new User account
+[2023-10-19 09:59:59,462] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 09:59:59,805] Preconditions - Step 04: Login new User
+[2023-10-19 10:00:00,449] Preconditions - Step 05: Select any product in Home Page
+[2023-10-19 10:14:45,128] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:14:45,814] Preconditions - Step 02: Register new User account
+[2023-10-19 10:14:46,443] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:14:46,856] Preconditions - Step 04: Login new User
+[2023-10-19 10:15:38,609] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:15:39,531] Preconditions - Step 02: Register new User account
+[2023-10-19 10:15:40,071] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:15:40,410] Preconditions - Step 04: Login new User
+[2023-10-19 10:16:40,010] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:16:40,991] Preconditions - Step 02: Register new User account
+[2023-10-19 10:16:41,535] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:16:41,899] Preconditions - Step 04: Login new User
+[2023-10-19 10:17:59,210] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:18:00,171] Preconditions - Step 02: Register new User account
+[2023-10-19 10:18:00,692] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:18:01,046] Preconditions - Step 04: Login new User
+[2023-10-19 10:20:21,300] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:20:21,752] Preconditions - Step 02: Register new User account
+[2023-10-19 10:20:22,294] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:20:22,648] Preconditions - Step 04: Login new User
+[2023-10-19 10:21:21,536] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:21:22,651] Preconditions - Step 02: Register new User account
+[2023-10-19 10:21:23,207] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:21:23,854] Preconditions - Step 04: Login new User
+[2023-10-19 10:22:55,839] Preconditions - Step 01: Navigate to Register Page
+[2023-10-19 10:22:56,833] Preconditions - Step 02: Register new User account
+[2023-10-19 10:22:57,367] Preconditions - Step 03: Navigate to Login page
+[2023-10-19 10:22:57,708] Preconditions - Step 04: Login new User
+[2023-10-21 09:43:20,591] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 09:43:21,498] Preconditions - Step 02: Register new User account
+[2023-10-21 09:43:22,293] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 09:43:22,627] Preconditions - Step 04: Login new User
+[2023-10-21 09:43:23,259] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 09:47:29,384] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 09:47:29,869] Preconditions - Step 02: Register new User account
+[2023-10-21 09:47:30,395] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 09:47:30,736] Preconditions - Step 04: Login new User
+[2023-10-21 09:47:31,389] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 09:49:32,490] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 09:49:33,436] Preconditions - Step 02: Register new User account
+[2023-10-21 09:49:33,955] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 09:49:34,290] Preconditions - Step 04: Login new User
+[2023-10-21 09:49:34,935] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 10:03:46,369] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 10:03:47,333] Preconditions - Step 02: Register new User account
+[2023-10-21 10:03:47,873] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 10:03:48,209] Preconditions - Step 04: Login new User
+[2023-10-21 10:03:48,888] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 10:47:30,429] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 10:47:31,380] Preconditions - Step 02: Register new User account
+[2023-10-21 10:47:32,179] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 10:47:32,522] Preconditions - Step 04: Login new User
+[2023-10-21 10:47:33,162] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 10:55:19,321] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 10:55:19,767] Preconditions - Step 02: Register new User account
+[2023-10-21 10:55:20,280] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 10:55:20,610] Preconditions - Step 04: Login new User
+[2023-10-21 10:55:21,265] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 10:58:52,508] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 10:58:53,408] Preconditions - Step 02: Register new User account
+[2023-10-21 10:58:53,918] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 10:58:54,253] Preconditions - Step 04: Login new User
+[2023-10-21 10:58:54,913] Preconditions - Step 05: Select any product in Home Page
+[2023-10-21 11:05:13,072] Preconditions - Step 01: Navigate to Register Page
+[2023-10-21 11:05:14,030] Preconditions - Step 02: Register new User account
+[2023-10-21 11:05:14,582] Preconditions - Step 03: Navigate to Login page
+[2023-10-21 11:05:14,904] Preconditions - Step 04: Login new User
+[2023-10-21 11:05:15,573] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 08:56:32,788] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 08:56:33,716] Preconditions - Step 02: Register new User account
+[2023-10-31 08:56:35,010] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 08:56:35,354] Preconditions - Step 04: Login new User
+[2023-10-31 08:56:36,008] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 09:52:46,124] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 09:52:47,390] Preconditions - Step 02: Register new User account
+[2023-10-31 09:52:49,305] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 09:52:50,724] Preconditions - Step 04: Login new User
+[2023-10-31 09:52:51,552] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:06:32,137] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:06:33,079] Preconditions - Step 02: Register new User account
+[2023-10-31 10:06:34,075] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:06:34,423] Preconditions - Step 04: Login new User
+[2023-10-31 10:06:35,751] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:08:51,208] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:08:52,166] Preconditions - Step 02: Register new User account
+[2023-10-31 10:08:52,716] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:08:53,055] Preconditions - Step 04: Login new User
+[2023-10-31 10:08:54,897] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:14:20,821] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:14:21,774] Preconditions - Step 02: Register new User account
+[2023-10-31 10:14:22,306] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:14:22,639] Preconditions - Step 04: Login new User
+[2023-10-31 10:14:23,873] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:15:52,314] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:15:53,264] Preconditions - Step 02: Register new User account
+[2023-10-31 10:15:53,785] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:15:54,127] Preconditions - Step 04: Login new User
+[2023-10-31 10:15:54,785] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:16:57,328] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:16:58,296] Preconditions - Step 02: Register new User account
+[2023-10-31 10:16:59,290] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:16:59,620] Preconditions - Step 04: Login new User
+[2023-10-31 10:17:00,298] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:29:54,922] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:29:55,877] Preconditions - Step 02: Register new User account
+[2023-10-31 10:29:56,402] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:29:56,737] Preconditions - Step 04: Login new User
+[2023-10-31 10:29:57,388] Preconditions - Step 05: Select any product in Home Page
+[2023-10-31 10:31:39,709] Preconditions - Step 01: Navigate to Register Page
+[2023-10-31 10:31:40,695] Preconditions - Step 02: Register new User account
+[2023-10-31 10:31:41,729] Preconditions - Step 03: Navigate to Login page
+[2023-10-31 10:31:42,071] Preconditions - Step 04: Login new User
+[2023-10-31 10:31:42,741] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 09:45:05,616] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 09:45:06,590] Preconditions - Step 02: Register new User account
+[2023-11-01 09:45:07,404] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 09:45:07,769] Preconditions - Step 04: Login new User
+[2023-11-01 09:45:08,499] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 10:18:13,406] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 10:18:14,358] Preconditions - Step 02: Register new User account
+[2023-11-01 10:18:14,882] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 10:18:15,216] Preconditions - Step 04: Login new User
+[2023-11-01 10:18:17,062] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 10:19:47,533] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 10:19:48,446] Preconditions - Step 02: Register new User account
+[2023-11-01 10:19:48,971] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 10:19:49,304] Preconditions - Step 04: Login new User
+[2023-11-01 10:19:49,970] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 10:21:18,679] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 10:21:19,627] Preconditions - Step 02: Register new User account
+[2023-11-01 10:21:20,141] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 10:21:20,483] Preconditions - Step 04: Login new User
+[2023-11-01 10:21:21,180] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 10:26:28,990] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 10:26:29,403] Preconditions - Step 02: Register new User account
+[2023-11-01 10:26:29,916] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 10:26:30,253] Preconditions - Step 04: Login new User
+[2023-11-01 10:26:30,894] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 10:27:55,394] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 10:27:56,328] Preconditions - Step 02: Register new User account
+[2023-11-01 10:27:56,871] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 10:27:57,193] Preconditions - Step 04: Login new User
+[2023-11-01 10:27:57,835] Preconditions - Step 05: Select any product in Home Page
+[2023-11-01 10:31:28,868] Preconditions - Step 01: Navigate to Register Page
+[2023-11-01 10:31:29,853] Preconditions - Step 02: Register new User account
+[2023-11-01 10:31:30,867] Preconditions - Step 03: Navigate to Login page
+[2023-11-01 10:31:31,217] Preconditions - Step 04: Login new User
+[2023-11-01 10:31:31,902] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:22:48,208] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:22:49,132] Preconditions - Step 02: Register new User account
+[2023-11-02 09:22:49,944] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:22:50,765] Preconditions - Step 04: Login new User
+[2023-11-02 09:22:51,419] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:24:38,868] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:24:39,818] Preconditions - Step 02: Register new User account
+[2023-11-02 09:24:40,848] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:24:41,185] Preconditions - Step 04: Login new User
+[2023-11-02 09:24:41,830] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:35:33,520] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:35:33,996] Preconditions - Step 02: Register new User account
+[2023-11-02 09:35:34,535] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:35:34,873] Preconditions - Step 04: Login new User
+[2023-11-02 09:35:36,704] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:37:11,862] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:37:12,823] Preconditions - Step 02: Register new User account
+[2023-11-02 09:37:13,857] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:37:14,198] Preconditions - Step 04: Login new User
+[2023-11-02 09:37:14,918] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:41:35,972] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:41:36,933] Preconditions - Step 02: Register new User account
+[2023-11-02 09:41:37,733] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:41:38,080] Preconditions - Step 04: Login new User
+[2023-11-02 09:41:39,267] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:49:51,505] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:49:52,437] Preconditions - Step 02: Register new User account
+[2023-11-02 09:49:53,440] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:49:53,784] Preconditions - Step 04: Login new User
+[2023-11-02 09:49:54,425] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:50:39,559] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:50:40,517] Preconditions - Step 02: Register new User account
+[2023-11-02 09:50:41,057] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:50:41,386] Preconditions - Step 04: Login new User
+[2023-11-02 09:50:42,078] Preconditions - Step 05: Select any product in Home Page
+[2023-11-02 09:56:24,389] Preconditions - Step 01: Navigate to Register Page
+[2023-11-02 09:56:25,345] Preconditions - Step 02: Register new User account
+[2023-11-02 09:56:25,884] Preconditions - Step 03: Navigate to Login page
+[2023-11-02 09:56:26,736] Preconditions - Step 04: Login new User
+[2023-11-02 09:56:27,493] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 10:31:13,139] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 10:31:14,108] Preconditions - Step 02: Register new User account
+[2023-11-04 10:31:14,942] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 10:31:15,290] Preconditions - Step 04: Login new User
+[2023-11-04 10:31:15,978] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 10:53:58,260] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 10:53:59,188] Preconditions - Step 02: Register new User account
+[2023-11-04 10:54:00,535] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 10:54:00,880] Preconditions - Step 04: Login new User
+[2023-11-04 10:54:01,540] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 10:55:51,830] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 10:55:52,998] Preconditions - Step 02: Register new User account
+[2023-11-04 10:55:53,580] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 10:55:54,437] Preconditions - Step 04: Login new User
+[2023-11-04 10:55:56,435] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 10:59:03,955] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 10:59:04,947] Preconditions - Step 02: Register new User account
+[2023-11-04 10:59:05,517] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 10:59:05,876] Preconditions - Step 04: Login new User
+[2023-11-04 10:59:07,091] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:08:00,974] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:08:01,931] Preconditions - Step 02: Register new User account
+[2023-11-04 11:08:02,456] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:08:02,802] Preconditions - Step 04: Login new User
+[2023-11-04 11:08:04,036] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:08:14,010]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:08:46,626] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:08:47,554] Preconditions - Step 02: Register new User account
+[2023-11-04 11:08:48,608] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:08:48,949] Preconditions - Step 04: Login new User
+[2023-11-04 11:08:49,597] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:09:00,280]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:09:35,444] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:09:36,413] Preconditions - Step 02: Register new User account
+[2023-11-04 11:09:36,955] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:09:37,293] Preconditions - Step 04: Login new User
+[2023-11-04 11:09:37,982] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:13:05,385] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:13:06,381] Preconditions - Step 02: Register new User account
+[2023-11-04 11:13:06,908] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:13:07,250] Preconditions - Step 04: Login new User
+[2023-11-04 11:13:07,956] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:13:22,153]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:13:22,172]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:13:22,192]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:13:22,213]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:13:22,233]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:14:42,122] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:14:43,068] Preconditions - Step 02: Register new User account
+[2023-11-04 11:14:44,119] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:14:44,482] Preconditions - Step 04: Login new User
+[2023-11-04 11:14:45,139] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:14:56,171]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:14:56,192]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:14:56,212]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:14:56,232]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:14:56,251]  -------------------------- FAILED -------------------------- 
+[2023-11-04 11:15:25,107] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:15:26,109] Preconditions - Step 02: Register new User account
+[2023-11-04 11:15:26,700] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:15:27,046] Preconditions - Step 04: Login new User
+[2023-11-04 11:15:27,744] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:15:45,923]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:18:57,515] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:18:58,465] Preconditions - Step 02: Register new User account
+[2023-11-04 11:18:59,521] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:18:59,889] Preconditions - Step 04: Login new User
+[2023-11-04 11:19:00,555] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:19:33,932]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:20:45,172] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:20:46,135] Preconditions - Step 02: Register new User account
+[2023-11-04 11:20:47,171] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:20:47,522] Preconditions - Step 04: Login new User
+[2023-11-04 11:20:48,174] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:21:43,385]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:21:53,260]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:22:10,885]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:22:30,814]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:22:46,385]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:23:10,907] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:23:12,273] Preconditions - Step 02: Register new User account
+[2023-11-04 11:23:13,262] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:23:13,687] Preconditions - Step 04: Login new User
+[2023-11-04 11:23:14,748] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:24:58,124] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:24:59,073] Preconditions - Step 02: Register new User account
+[2023-11-04 11:24:59,589] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:24:59,939] Preconditions - Step 04: Login new User
+[2023-11-04 11:25:01,111] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:26:28,686] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:26:29,585] Preconditions - Step 02: Register new User account
+[2023-11-04 11:26:30,123] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:26:30,463] Preconditions - Step 04: Login new User
+[2023-11-04 11:26:31,115] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:31:23,359] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:31:24,319] Preconditions - Step 02: Register new User account
+[2023-11-04 11:31:24,855] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:31:25,687] Preconditions - Step 04: Login new User
+[2023-11-04 11:31:26,364] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:32:50,028] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:32:50,985] Preconditions - Step 02: Register new User account
+[2023-11-04 11:32:51,550] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:32:51,901] Preconditions - Step 04: Login new User
+[2023-11-04 11:32:53,103] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:33:06,170]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:33:06,189]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:33:06,208]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:33:06,227]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:33:06,247]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:50:04,599] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:50:05,510] Preconditions - Step 02: Register new User account
+[2023-11-04 11:50:06,800] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:50:07,129] Preconditions - Step 04: Login new User
+[2023-11-04 11:50:07,820] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:50:20,407]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:50:20,426]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:50:20,445]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:50:20,466]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:50:20,485]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:51:52,437] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 11:51:53,386] Preconditions - Step 02: Register new User account
+[2023-11-04 11:51:53,918] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 11:51:54,249] Preconditions - Step 04: Login new User
+[2023-11-04 11:51:55,386] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 11:52:00,218]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:00,238]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:00,258]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:00,277]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:00,296]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:00,319]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:00,339]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:08,110]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:08,130]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:08,151]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:08,179]  -------------------------- PASSED -------------------------- 
+[2023-11-04 11:52:08,198]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:10,743] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 12:02:11,692] Preconditions - Step 02: Register new User account
+[2023-11-04 12:02:12,712] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 12:02:13,055] Preconditions - Step 04: Login new User
+[2023-11-04 12:02:13,714] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 12:02:18,535]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:18,555]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:18,576]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:18,597]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:18,617]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:18,637]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:18,658]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:26,442]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:26,462]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:26,483]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:26,502]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:02:26,520]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:38,164] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 12:11:39,097] Preconditions - Step 02: Register new User account
+[2023-11-04 12:11:39,626] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 12:11:40,465] Preconditions - Step 04: Login new User
+[2023-11-04 12:11:41,129] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 12:11:46,013]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:46,032]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:46,051]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:46,071]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:46,091]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:46,110]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:46,130]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:53,863]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:53,887]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:53,907]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:53,937]  -------------------------- PASSED -------------------------- 
+[2023-11-04 12:11:53,957]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:00,444] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:03:01,407] Preconditions - Step 02: Register new User account
+[2023-11-04 13:03:02,756] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:03:03,132] Preconditions - Step 04: Login new User
+[2023-11-04 13:03:03,797] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:03:08,774]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:08,796]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:08,817]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:08,838]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:08,859]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:08,880]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:08,902]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:16,677]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:16,699]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:16,720]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:16,742]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:03:16,762]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:46,517] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:05:47,431] Preconditions - Step 02: Register new User account
+[2023-11-04 13:05:48,471] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:05:48,809] Preconditions - Step 04: Login new User
+[2023-11-04 13:05:49,471] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:05:54,289]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:54,311]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:54,331]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:54,353]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:54,377]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:54,398]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:05:54,420]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:06:02,182]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:06:02,205]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:06:02,233]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:06:02,254]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:06:02,274]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:13,887] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:15:16,912] Preconditions - Step 02: Register new User account
+[2023-11-04 13:15:17,536] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:15:18,123] Preconditions - Step 04: Login new User
+[2023-11-04 13:15:19,632] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:15:32,968]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:32,988]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:33,015]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:33,035]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:33,055]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:33,074]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:15:33,093]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:06,158] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:17:07,121] Preconditions - Step 02: Register new User account
+[2023-11-04 13:17:08,143] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:17:08,500] Preconditions - Step 04: Login new User
+[2023-11-04 13:17:09,146] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:17:13,896]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:13,916]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:13,940]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:13,960]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:13,979]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:13,999]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:14,019]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:21,756]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:21,775]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:21,795]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:21,819]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:17:21,837]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:40,145] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:18:41,110] Preconditions - Step 02: Register new User account
+[2023-11-04 13:18:41,643] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:18:41,993] Preconditions - Step 04: Login new User
+[2023-11-04 13:18:42,665] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:18:47,576]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:47,599]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:47,619]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:47,645]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:47,692]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:47,738]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:47,759]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:55,533]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:55,553]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:55,572]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:55,591]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:18:55,609]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:50,888] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:30:51,354] Preconditions - Step 02: Register new User account
+[2023-11-04 13:30:51,895] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:30:52,287] Preconditions - Step 04: Login new User
+[2023-11-04 13:30:53,475] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:30:58,340]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:58,360]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:58,386]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:58,405]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:58,428]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:58,447]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:30:58,466]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:31:06,216]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:31:06,236]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:31:06,256]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:31:06,275]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:31:06,295]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:41,680] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:34:42,637] Preconditions - Step 02: Register new User account
+[2023-11-04 13:34:43,179] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:34:43,512] Preconditions - Step 04: Login new User
+[2023-11-04 13:34:44,165] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:34:48,926]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:48,946]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:48,965]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:48,985]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:49,005]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:49,033]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:49,052]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:56,784]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:56,804]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:56,823]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:56,842]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:34:56,861]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:17,417] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:36:18,348] Preconditions - Step 02: Register new User account
+[2023-11-04 13:36:18,867] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:36:19,230] Preconditions - Step 04: Login new User
+[2023-11-04 13:36:19,916] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:36:24,754]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:24,774]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:24,802]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:24,824]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:24,845]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:24,865]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:24,889]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:32,618]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:32,639]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:32,659]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:32,681]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:36:32,702]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:20,819] Preconditions - Step 01: Navigate to Register Page
+[2023-11-04 13:37:22,073] Preconditions - Step 02: Register new User account
+[2023-11-04 13:37:23,202] Preconditions - Step 03: Navigate to Login page
+[2023-11-04 13:37:23,609] Preconditions - Step 04: Login new User
+[2023-11-04 13:37:26,014] Preconditions - Step 05: Select any product in Home Page
+[2023-11-04 13:37:36,951]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:36,971]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:36,990]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:37,010]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:37,030]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:37,050]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:37,070]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:45,019]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:45,039]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:45,057]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:45,076]  -------------------------- PASSED -------------------------- 
+[2023-11-04 13:37:45,095]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:16:53,269] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:16:53,719] Preconditions - Step 02: Register new User account
+[2023-11-07 10:16:55,028] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:16:55,368] Preconditions - Step 04: Login new User
+[2023-11-07 10:16:56,016] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:17:00,990]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:01,010]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:01,030]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:01,051]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:01,071]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:01,093]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:01,115]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:08,824]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:08,843]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:08,863]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:08,882]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:17:08,902]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:31,591] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:19:32,528] Preconditions - Step 02: Register new User account
+[2023-11-07 10:19:33,051] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:19:33,883] Preconditions - Step 04: Login new User
+[2023-11-07 10:19:34,540] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:19:40,013]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:40,032]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:40,052]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:40,073]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:40,093]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:40,113]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:40,133]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:47,840]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:47,860]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:47,879]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:47,898]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:19:47,916]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:21:54,746] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:21:55,729] Preconditions - Step 02: Register new User account
+[2023-11-07 10:21:56,273] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:21:56,652] Preconditions - Step 04: Login new User
+[2023-11-07 10:21:57,831] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:22:02,726]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:02,747]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:02,767]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:02,790]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:02,819]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:02,840]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:02,862]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:10,563]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:10,589]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:10,612]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:10,633]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:22:10,654]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:22,617] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:24:23,587] Preconditions - Step 02: Register new User account
+[2023-11-07 10:24:24,133] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:24:24,475] Preconditions - Step 04: Login new User
+[2023-11-07 10:24:25,149] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:24:30,046]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:30,069]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:30,101]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:30,123]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:30,144]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:30,165]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:30,186]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:37,953]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:37,975]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:37,994]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:38,015]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:24:38,036]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:05,513] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:27:06,471] Preconditions - Step 02: Register new User account
+[2023-11-07 10:27:07,001] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:27:07,339] Preconditions - Step 04: Login new User
+[2023-11-07 10:27:08,003] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:27:12,850]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:12,873]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:12,896]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:12,920]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:12,944]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:12,971]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:12,992]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:20,675]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:20,697]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:20,718]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:20,739]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:27:20,760]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:39:20,157] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:39:21,440] Preconditions - Step 02: Register new User account
+[2023-11-07 10:39:22,354] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:39:22,873] Preconditions - Step 04: Login new User
+[2023-11-07 10:39:24,252] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:40:31,239] Preconditions - Step 01: Navigate to Register Page
+[2023-11-07 10:40:32,202] Preconditions - Step 02: Register new User account
+[2023-11-07 10:40:33,541] Preconditions - Step 03: Navigate to Login page
+[2023-11-07 10:40:33,891] Preconditions - Step 04: Login new User
+[2023-11-07 10:40:34,541] Preconditions - Step 05: Select any product in Home Page
+[2023-11-07 10:40:39,446]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:39,467]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:39,487]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:39,508]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:39,527]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:39,546]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:39,567]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:47,224]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:47,245]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:47,265]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:47,286]  -------------------------- PASSED -------------------------- 
+[2023-11-07 10:40:47,307]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:40,257] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 09:37:41,258] Preconditions - Step 02: Register new User account
+[2023-11-08 09:37:42,535] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 09:37:42,921] Preconditions - Step 04: Login new User
+[2023-11-08 09:37:43,593] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 09:37:49,090]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:49,111]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:49,131]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:49,152]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:49,174]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:49,194]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:49,214]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:56,922]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:56,942]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:56,961]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:56,980]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:37:57,000]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:12,220] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 09:40:13,142] Preconditions - Step 02: Register new User account
+[2023-11-08 09:40:13,938] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 09:40:14,287] Preconditions - Step 04: Login new User
+[2023-11-08 09:40:15,443] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 09:40:20,292]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:20,311]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:20,331]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:20,352]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:20,380]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:20,402]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:20,422]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:28,151]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:28,172]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:28,192]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:28,213]  -------------------------- PASSED -------------------------- 
+[2023-11-08 09:40:28,232]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:08:43,260] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:08:44,182] Preconditions - Step 02: Register new User account
+[2023-11-08 10:08:44,698] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:08:45,039] Preconditions - Step 04: Login new User
+[2023-11-08 10:08:46,925] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:09:00,953]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:09:00,973]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:09:00,993]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:09:01,014]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:09:01,034]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:26,200] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:19:27,139] Preconditions - Step 02: Register new User account
+[2023-11-08 10:19:27,645] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:19:28,001] Preconditions - Step 04: Login new User
+[2023-11-08 10:19:29,161] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:19:33,968]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:33,989]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:34,011]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:34,031]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:34,051]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:34,070]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:34,088]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:41,797]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:41,817]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:41,837]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:41,856]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:19:41,874]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:02,907] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:21:03,835] Preconditions - Step 02: Register new User account
+[2023-11-08 10:21:04,343] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:21:04,680] Preconditions - Step 04: Login new User
+[2023-11-08 10:21:05,815] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:21:10,627]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:10,647]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:10,669]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:10,689]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:10,709]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:10,730]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:10,750]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:18,456]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:18,475]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:18,497]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:18,517]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:21:18,537]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:00,891] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:23:01,829] Preconditions - Step 02: Register new User account
+[2023-11-08 10:23:02,837] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:23:03,183] Preconditions - Step 04: Login new User
+[2023-11-08 10:23:03,823] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:23:08,694]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:08,713]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:08,735]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:08,756]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:08,775]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:08,795]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:08,818]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:17,079]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:17,099]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:17,118]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:17,137]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:23:17,156]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:30,613] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:25:31,564] Preconditions - Step 02: Register new User account
+[2023-11-08 10:25:32,595] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:25:32,941] Preconditions - Step 04: Login new User
+[2023-11-08 10:25:33,591] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:25:38,424]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:38,444]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:38,465]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:38,483]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:38,504]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:38,524]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:38,543]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:46,272]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:46,294]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:46,318]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:46,337]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:25:46,363]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:33,505] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:29:34,447] Preconditions - Step 02: Register new User account
+[2023-11-08 10:29:34,981] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:29:35,338] Preconditions - Step 04: Login new User
+[2023-11-08 10:29:35,992] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:29:40,791]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:40,812]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:40,845]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:40,866]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:40,888]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:40,908]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:40,929]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:48,691]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:48,712]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:48,732]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:48,754]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:29:48,775]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:34:56,000] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:34:56,937] Preconditions - Step 02: Register new User account
+[2023-11-08 10:34:57,473] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:34:58,320] Preconditions - Step 04: Login new User
+[2023-11-08 10:34:58,960] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:35:03,736]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:03,759]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:03,779]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:03,799]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:03,819]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:03,839]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:03,857]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:11,566]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:11,589]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:11,609]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:11,627]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:35:11,646]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:28,467] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:42:29,407] Preconditions - Step 02: Register new User account
+[2023-11-08 10:42:30,700] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:42:31,043] Preconditions - Step 04: Login new User
+[2023-11-08 10:42:31,698] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:42:36,490]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:36,511]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:36,532]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:36,554]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:36,576]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:36,598]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:36,618]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:44,300]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:44,321]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:44,350]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:44,374]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:42:44,394]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:14,890] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:45:15,802] Preconditions - Step 02: Register new User account
+[2023-11-08 10:45:16,319] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:45:16,663] Preconditions - Step 04: Login new User
+[2023-11-08 10:45:17,807] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:45:22,621]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:22,643]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:22,667]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:22,688]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:22,712]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:22,733]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:22,755]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:30,717]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:30,737]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:30,760]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:30,780]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:45:30,800]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:21,496] Preconditions - Step 01: Navigate to Register Page
+[2023-11-08 10:48:21,919] Preconditions - Step 02: Register new User account
+[2023-11-08 10:48:22,956] Preconditions - Step 03: Navigate to Login page
+[2023-11-08 10:48:23,289] Preconditions - Step 04: Login new User
+[2023-11-08 10:48:23,967] Preconditions - Step 05: Select any product in Home Page
+[2023-11-08 10:48:28,754]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:28,777]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:28,798]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:28,819]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:28,843]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:28,863]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:28,885]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:37,072]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:37,092]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:37,116]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:37,137]  -------------------------- PASSED -------------------------- 
+[2023-11-08 10:48:37,159]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:28,511] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 08:52:29,435] Preconditions - Step 02: Register new User account
+[2023-11-09 08:52:30,948] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 08:52:31,302] Preconditions - Step 04: Login new User
+[2023-11-09 08:52:31,989] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 08:52:38,150]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:38,171]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:38,191]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:38,212]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:38,233]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:38,256]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:38,276]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:46,082]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:46,104]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:46,124]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:46,144]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:52:46,164]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:57:09,477] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 08:57:10,382] Preconditions - Step 02: Register new User account
+[2023-11-09 08:57:10,920] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 08:57:11,273] Preconditions - Step 04: Login new User
+[2023-11-09 08:57:13,086] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 08:57:26,277]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:57:26,298]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:57:26,317]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:57:26,335]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:57:26,355]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:32,332] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 08:59:33,283] Preconditions - Step 02: Register new User account
+[2023-11-09 08:59:34,359] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 08:59:34,713] Preconditions - Step 04: Login new User
+[2023-11-09 08:59:35,382] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 08:59:42,942]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:42,966]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:42,987]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:43,008]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:43,028]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:43,049]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:43,068]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:50,735]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:50,757]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:50,778]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:50,802]  -------------------------- PASSED -------------------------- 
+[2023-11-09 08:59:50,822]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:09:53,537] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:09:54,595] Preconditions - Step 02: Register new User account
+[2023-11-09 09:09:55,765] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:09:56,100] Preconditions - Step 04: Login new User
+[2023-11-09 09:09:56,830] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:10:10,352]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:10:10,372]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:10:10,389]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:10:10,409]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:10:10,429]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:10:52,239] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:10:53,181] Preconditions - Step 02: Register new User account
+[2023-11-09 09:10:53,701] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:10:54,029] Preconditions - Step 04: Login new User
+[2023-11-09 09:10:55,237] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:11:00,217]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:00,239]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:00,258]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:00,279]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:00,300]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:00,321]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:00,342]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:08,044]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:08,064]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:08,084]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:08,106]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:11:08,125]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:15:58,134] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:15:59,061] Preconditions - Step 02: Register new User account
+[2023-11-09 09:16:00,065] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:16:00,399] Preconditions - Step 04: Login new User
+[2023-11-09 09:16:01,748] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:16:15,788]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:16:15,808]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:16:15,827]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:16:15,846]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:16:15,865]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:48,021] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:17:48,991] Preconditions - Step 02: Register new User account
+[2023-11-09 09:17:49,509] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:17:49,849] Preconditions - Step 04: Login new User
+[2023-11-09 09:17:50,494] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:17:55,792]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:55,815]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:55,836]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:55,855]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:55,875]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:55,894]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:17:55,914]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:18:03,610]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:18:03,630]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:18:03,648]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:18:03,668]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:18:03,687]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:02,111] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:21:03,037] Preconditions - Step 02: Register new User account
+[2023-11-09 09:21:04,046] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:21:04,378] Preconditions - Step 04: Login new User
+[2023-11-09 09:21:05,031] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:21:09,817]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:09,838]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:09,859]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:09,878]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:09,899]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:09,919]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:09,939]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:17,596]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:17,617]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:17,638]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:17,660]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:21:17,681]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:47:58,228] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:47:59,178] Preconditions - Step 02: Register new User account
+[2023-11-09 09:48:00,552] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:48:00,886] Preconditions - Step 04: Login new User
+[2023-11-09 09:48:01,620] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:48:07,015]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:07,035]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:07,058]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:07,078]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:07,097]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:07,118]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:07,136]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:14,808]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:14,828]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:14,846]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:14,865]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:48:14,884]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:49:40,857] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:49:41,790] Preconditions - Step 02: Register new User account
+[2023-11-09 09:49:42,313] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:49:42,658] Preconditions - Step 04: Login new User
+[2023-11-09 09:49:44,040] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:49:56,660]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:49:56,684]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:49:56,704]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:49:56,724]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:49:56,744]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:41,830] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:52:42,783] Preconditions - Step 02: Register new User account
+[2023-11-09 09:52:43,771] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:52:44,096] Preconditions - Step 04: Login new User
+[2023-11-09 09:52:44,749] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:52:49,656]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:49,677]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:49,697]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:49,715]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:49,735]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:49,756]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:49,775]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:57,546]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:57,565]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:57,585]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:57,604]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:52:57,623]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:32,017] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:54:33,005] Preconditions - Step 02: Register new User account
+[2023-11-09 09:54:33,535] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:54:33,899] Preconditions - Step 04: Login new User
+[2023-11-09 09:54:34,625] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:54:39,375]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:39,394]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:39,413]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:39,433]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:39,453]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:39,473]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:39,493]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:47,258]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:47,283]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:47,302]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:47,320]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:54:47,339]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:41,375] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 09:57:42,314] Preconditions - Step 02: Register new User account
+[2023-11-09 09:57:43,411] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 09:57:43,742] Preconditions - Step 04: Login new User
+[2023-11-09 09:57:44,457] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 09:57:49,256]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:49,277]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:49,296]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:49,316]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:49,340]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:49,360]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:49,379]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:57,042]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:57,062]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:57,082]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:57,106]  -------------------------- PASSED -------------------------- 
+[2023-11-09 09:57:57,125]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:16,528] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:29:17,764] Preconditions - Step 02: Register new User account
+[2023-11-09 10:29:18,893] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:29:19,280] Preconditions - Step 04: Login new User
+[2023-11-09 10:29:20,043] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:29:25,544]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:25,565]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:25,586]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:25,607]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:25,632]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:25,653]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:25,675]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:33,641]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:33,662]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:33,681]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:33,701]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:29:33,721]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:41,501] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:32:42,460] Preconditions - Step 02: Register new User account
+[2023-11-09 10:32:43,004] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:32:43,336] Preconditions - Step 04: Login new User
+[2023-11-09 10:32:44,550] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:32:49,439]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:49,461]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:49,483]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:49,505]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:49,526]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:49,551]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:49,571]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:57,251]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:57,272]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:57,292]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:57,313]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:32:57,333]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:44,433] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:39:44,891] Preconditions - Step 02: Register new User account
+[2023-11-09 10:39:45,745] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:39:46,136] Preconditions - Step 04: Login new User
+[2023-11-09 10:39:46,818] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:39:51,731]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:51,750]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:51,771]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:51,802]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:51,823]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:51,843]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:51,864]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:59,683]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:59,702]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:59,722]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:59,742]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:39:59,760]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:48,954] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:41:49,983] Preconditions - Step 02: Register new User account
+[2023-11-09 10:41:50,521] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:41:50,903] Preconditions - Step 04: Login new User
+[2023-11-09 10:41:52,113] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:41:56,970]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:56,991]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:57,011]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:57,031]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:57,052]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:57,073]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:41:57,093]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:42:04,889]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:42:04,911]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:42:04,931]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:42:04,959]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:42:04,978]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:46:59,366] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:47:00,289] Preconditions - Step 02: Register new User account
+[2023-11-09 10:47:01,675] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:47:02,109] Preconditions - Step 04: Login new User
+[2023-11-09 10:47:02,857] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:47:07,753]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:07,772]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:07,791]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:07,810]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:07,831]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:07,850]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:07,870]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:16,044]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:16,065]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:16,084]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:16,102]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:47:16,124]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:31,273] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:50:32,282] Preconditions - Step 02: Register new User account
+[2023-11-09 10:50:33,314] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:50:33,663] Preconditions - Step 04: Login new User
+[2023-11-09 10:50:34,325] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:50:39,268]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:39,290]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:39,311]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:39,333]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:39,356]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:39,378]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:39,400]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:47,407]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:47,428]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:47,449]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:47,469]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:50:47,489]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:52:53,312] Preconditions - Step 01: Navigate to Register Page
+[2023-11-09 10:52:54,233] Preconditions - Step 02: Register new User account
+[2023-11-09 10:52:54,773] Preconditions - Step 03: Navigate to Login page
+[2023-11-09 10:52:55,095] Preconditions - Step 04: Login new User
+[2023-11-09 10:52:55,743] Preconditions - Step 05: Select any product in Home Page
+[2023-11-09 10:53:00,723]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:00,746]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:00,768]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:00,791]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:00,817]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:00,839]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:00,863]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:08,561]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:08,582]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:08,603]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:08,623]  -------------------------- PASSED -------------------------- 
+[2023-11-09 10:53:08,644]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:09,238] Preconditions - Step 01: Navigate to Register Page
+[2023-11-14 09:20:10,186] Preconditions - Step 02: Register new User account
+[2023-11-14 09:20:11,005] Preconditions - Step 03: Navigate to Login page
+[2023-11-14 09:20:11,350] Preconditions - Step 04: Login new User
+[2023-11-14 09:20:12,516] Preconditions - Step 05: Select any product in Home Page
+[2023-11-14 09:20:17,437]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:17,461]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:17,483]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:17,506]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:17,528]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:17,550]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:17,571]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:25,290]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:25,311]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:25,333]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:25,353]  -------------------------- PASSED -------------------------- 
+[2023-11-14 09:20:25,374]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:32,535] Preconditions - Step 01: Navigate to Register Page
+[2023-11-15 11:23:33,479] Preconditions - Step 02: Register new User account
+[2023-11-15 11:23:34,303] Preconditions - Step 03: Navigate to Login page
+[2023-11-15 11:23:34,658] Preconditions - Step 04: Login new User
+[2023-11-15 11:23:35,827] Preconditions - Step 05: Select any product in Home Page
+[2023-11-15 11:23:41,425]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:41,446]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:41,466]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:41,486]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:41,508]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:41,528]  -------------------------- PASSED -------------------------- 
+[2023-11-15 11:23:41,548]  -------------------------- PASSED -------------------------- 
+[2023-11-21 10:24:53,266] Preconditions - Step 01: Navigate to Register Page
+[2023-11-22 09:59:52,043] Preconditions - Step 01: Navigate to Register Page
+[2023-11-22 09:59:52,956] Preconditions - Step 02: Register new User account
+[2023-11-22 09:59:53,719] Preconditions - Step 03: Navigate to Login page
+[2023-11-22 09:59:54,056] Preconditions - Step 04: Login new User
+[2023-11-22 09:59:54,715] Preconditions - Step 05: Select any product in Home Page
+[2023-11-22 10:00:00,166]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:00,187]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:00,208]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:00,229]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:00,250]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:00,271]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:00,292]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:08,024]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:08,054]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:08,084]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:08,103]  -------------------------- PASSED -------------------------- 
+[2023-11-22 10:00:08,122]  -------------------------- PASSED -------------------------- 
+[2024-07-19 23:11:36,342] Register - Step 01: Navigate to Register Page
+[2024-07-19 23:11:53,855] Login - Step 01: Navigate to Login Page
+[2024-07-20 13:38:03,259] Preconditions - Step 01: Navigate to Register Page
+[2024-07-20 13:38:04,178] Preconditions - Step 02: Register new User account
+[2024-07-20 13:38:04,982] Preconditions - Step 03: Navigate to Login page
+[2024-07-20 13:54:32,790] Preconditions - Step 01: Navigate to Register Page
+[2024-07-20 13:54:33,688] Preconditions - Step 02: Register new User account
+[2024-07-20 13:54:34,206] Preconditions - Step 03: Navigate to Login page
+[2024-07-20 13:54:34,545] Preconditions - Step 04: Login new User
+[2024-07-20 13:54:35,244] Preconditions - Step 05: Select any product in Home Page

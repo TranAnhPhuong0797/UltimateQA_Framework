@@ -18,11 +18,13 @@ public class ExtentManagerV5 {
 		reporter.config().setTheme(Theme.DARK);
 
 		extentReports.attachReporter(reporter);
-		extentReports.setSystemInfo("Company", "Automation FC");
-//		extentReports.setSystemInfo("Project", "NopCommerce");
-		extentReports.setSystemInfo("Project", "WorkPress");
-		extentReports.setSystemInfo("Team", "Basus VN");
+		extentReports.setSystemInfo("Company", "Ultimate QA");
+		extentReports.setSystemInfo("Project", "Ultimate QA");
+		extentReports.setSystemInfo("Team", "Ultimate Automate team");
 		extentReports.setSystemInfo("JDK version", GlobalConstants.JAVA_VERSION);
+		extentReports.setSystemInfo("OSname", GlobalConstants.OS_NAME);
+		
+		
 		return extentReports;
 	}
 }
