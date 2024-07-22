@@ -6,6 +6,12 @@
 
 ## Overview
 * This framework is built to run automation tests for the Ultimate QA project
+* Tech Stack:
+  -  Selenium + Java: Framework and language to build automation app.
+  -  Maven: manage dependencies.
+  -  TestNG + Extent Report: Test runner and displayed report.
+  -  Log4j: Write test log.
+  -  Webdriver manage: Manage browser driver version.
 
 ## Installation
 * Download IDEs: Eclipse or IntelliJ IDEA
