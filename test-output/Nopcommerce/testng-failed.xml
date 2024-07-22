@@ -11,14 +11,15 @@
   <test thread-count="5" name="Run on Firefox(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.ultimateqa.testcases.FirstTest_UltimateQA">
+      <class name="com.ultimateqa.testcases.UltimateQA_Register_testcases">
         <methods>
           <include name="initBeforeSuite"/>
           <include name="beforeClass"/>
-          <include name="Test02_VerifyFooter" invocation-numbers="0"/>
+          <include name="Test01_NotInputAnyvalue"/>
           <include name="afterClass"/>
+          <include name="Test02_InputWrongEMail"/>
         </methods>
-      </class> <!-- com.ultimateqa.testcases.FirstTest_UltimateQA -->
+      </class> <!-- com.ultimateqa.testcases.UltimateQA_Register_testcases -->
     </classes>
   </test> <!-- Run on Firefox(failed) -->
 </suite> <!-- Failed suite [Nopcommerce] -->

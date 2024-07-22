@@ -25,13 +25,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import pageObject.ultimateQA.PageGeneratorManager;
-import pageObject.ultimateQA.UserAddressPageObject;
-import pageObject.ultimateQA.UserBackInStockSubscriptionsPageObject;
-import pageObject.ultimateQA.UserChangePasswordPageObject;
-import pageObject.ultimateQA.UserCustomerInforPageObject;
-import pageObject.ultimateQA.UserDownloadProductsPageObject;
-import pageObject.ultimateQA.UserHomePageObject;
-import pageObject.ultimateQA.UserMyProductReviewPageObject;
 import pageUI.ultimateQA.BasePageUINopcommerce;
 
 public class BasePage {
@@ -677,34 +670,6 @@ public class BasePage {
 		getWebElement(driver, xpathLocator).sendKeys(fullFileName);
 	}
 
-	public BasePage openPagesAtMyAccountByName(WebDriver driver, String pageName) {
-		waitForElementClickable(driver, BasePageUINopcommerce.DYNAMIC_PAGES_AT_MYACCOUNT_AREA, pageName);
-		clickToElement(driver, BasePageUINopcommerce.DYNAMIC_PAGES_AT_MYACCOUNT_AREA, pageName);
-
-		switch (pageName) {
-		case "Customer info":
-			return PageGeneratorManager.getUserCustomerInforPage(driver);
-
-		case "Addresses":
-			return PageGeneratorManager.getUserAddressPage(driver);
-
-		case "Downloadable products":
-			return PageGeneratorManager.getUserDownloadProductsPage(driver);
-
-		case "Back in stock subscriptions":
-			return PageGeneratorManager.getUserBackInStockSubscriptionsPage(driver);
-
-		case "Change password":
-			return PageGeneratorManager.getUserChangePasswordPage(driver);
-
-		case "My product reviews":
-			return PageGeneratorManager.getUserMyProductReviewPage(driver);
-
-		default:
-			throw new RuntimeException("Invalid page name at My Account area.");
-		}
-	}
-
 	public void openPagesAtMyAccountByPageName(WebDriver driver, String pageName) {
 		waitForElementClickable(driver, BasePageUINopcommerce.DYNAMIC_PAGES_AT_MYACCOUNT_AREA, pageName);
 		clickToElement(driver, BasePageUINopcommerce.DYNAMIC_PAGES_AT_MYACCOUNT_AREA, pageName);
@@ -798,47 +763,6 @@ public class BasePage {
 		clickToElement(driver, BasePageUINopcommerce.GLOBAL_SEARCH_BUTTON);
 	}
 
-	public UserCustomerInforPageObject openCustomerInforPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.CUSTOMER_INFOR_LINK);
-		clickToElement(driver, BasePageUINopcommerce.CUSTOMER_INFOR_LINK);
-		return PageGeneratorManager.getUserCustomerInforPage(driver);
-	}
-
-	public UserAddressPageObject openAddressPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.ADDRESS_LINK);
-		clickToElement(driver, BasePageUINopcommerce.ADDRESS_LINK);
-		return PageGeneratorManager.getUserAddressPage(driver);
-	}
-
-	public UserDownloadProductsPageObject openDownloadPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.DOWNLOADABLE_PRODUCTS_LINK);
-		clickToElement(driver, BasePageUINopcommerce.DOWNLOADABLE_PRODUCTS_LINK);
-		return PageGeneratorManager.getUserDownloadProductsPage(driver);
-	}
-
-	public UserBackInStockSubscriptionsPageObject openBackInStockSubscriptionsPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.BACK_IN_STOCK_SUBCRIPTION_LINK);
-		clickToElement(driver, BasePageUINopcommerce.BACK_IN_STOCK_SUBCRIPTION_LINK);
-		return PageGeneratorManager.getUserBackInStockSubscriptionsPage(driver);
-	}
-
-	public UserChangePasswordPageObject openChangePasswordPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.CHANGE_PASSWORD_LINK);
-		clickToElement(driver, BasePageUINopcommerce.CHANGE_PASSWORD_LINK);
-		return PageGeneratorManager.getUserChangePasswordPage(driver);
-	}
-
-	public UserMyProductReviewPageObject openMyProductReviewPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.MY_PRODUCT_REVIEWS_LINK);
-		clickToElement(driver, BasePageUINopcommerce.MY_PRODUCT_REVIEWS_LINK);
-		return PageGeneratorManager.getUserMyProductReviewPage(driver);
-	}
-
-	public UserHomePageObject clickToLogoutLinkAtUserPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUINopcommerce.LOGOUT_LINK_AT_USER);
-		clickToElement(driver, BasePageUINopcommerce.LOGOUT_LINK_AT_USER);
-		return PageGeneratorManager.getUserHomePage(driver);
-	}
 
 	public void sleepInSecond(long time) {
 		try {

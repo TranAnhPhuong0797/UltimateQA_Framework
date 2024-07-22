@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[<br><a target="_blank" href="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png"><img src="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png" height='100' width='150'/> </a></br>]]>
+      <![CDATA[<br><a target="_blank" href="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_Input_InvalidEMail_22_07_2024_10_34_49.png"><img src="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_Input_InvalidEMail_22_07_2024_10_34_49.png" height='100' width='150'/> </a></br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-07-20T07:21:16Z" name="Nopcommerce" finished-at="2024-07-20T07:21:53Z" duration-ms="36085">
+  <suite started-at="2024-07-22T03:33:38Z" name="Ultimate QA" finished-at="2024-07-22T03:34:51Z" duration-ms="73847">
     <groups>
     </groups>
-    <test started-at="2024-07-20T07:21:16Z" name="Run on Firefox" finished-at="2024-07-20T07:21:53Z" duration-ms="36085">
-      <class name="com.ultimateqa.testcases.FirstTest_UltimateQA">
-        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9]" started-at="2024-07-20T07:21:16Z" name="initBeforeSuite" finished-at="2024-07-20T07:21:16Z" duration-ms="16" status="PASS">
+    <test started-at="2024-07-22T03:33:38Z" name="Run on Firefox" finished-at="2024-07-22T03:34:51Z" duration-ms="73847">
+      <class name="com.ultimateqa.testcases.UltimateQA_Register_testcases">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.ultimateqa.testcases.UltimateQA_Register_testcases@7cf6a5f9]" started-at="2024-07-22T03:33:38Z" name="initBeforeSuite" finished-at="2024-07-22T03:33:38Z" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBeforeSuite -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9]" started-at="2024-07-20T07:21:16Z" name="beforeClass" finished-at="2024-07-20T07:21:21Z" duration-ms="4770" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.ultimateqa.testcases.UltimateQA_Register_testcases@7cf6a5f9]" started-at="2024-07-22T03:33:38Z" name="beforeClass" finished-at="2024-07-22T03:33:46Z" duration-ms="8374" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,36 +25,46 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="Test01_VerifyHeader(java.lang.reflect.Method)[pri:0, instance:com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9]" started-at="2024-07-20T07:21:21Z" name="Test01_VerifyHeader" finished-at="2024-07-20T07:21:21Z" duration-ms="263" status="PASS">
+        <test-method signature="Test01_NotInputAnyvalue(java.lang.reflect.Method)[pri:0, instance:com.ultimateqa.testcases.UltimateQA_Register_testcases@7cf6a5f9]" started-at="2024-07-22T03:33:46Z" name="Test01_NotInputAnyvalue" finished-at="2024-07-22T03:33:46Z" duration-ms="427" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.ultimateqa.testcases.FirstTest_UltimateQA.Test01_VerifyHeader(java.lang.reflect.Method)]]>
+                <![CDATA[public void com.ultimateqa.testcases.UltimateQA_Register_testcases.Test01_NotInputAnyvalue(java.lang.reflect.Method)]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test01_VerifyHeader -->
-        <test-method signature="Test02_VerifyFooter(java.lang.reflect.Method)[pri:0, instance:com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9]" started-at="2024-07-20T07:21:22Z" name="Test02_VerifyFooter" finished-at="2024-07-20T07:21:52Z" duration-ms="30312" status="FAIL">
+        </test-method> <!-- Test01_NotInputAnyvalue -->
+        <test-method signature="Test02_Input_InvalidEMail(java.lang.reflect.Method)[pri:0, instance:com.ultimateqa.testcases.UltimateQA_Register_testcases@7cf6a5f9]" started-at="2024-07-22T03:33:46Z" name="Test02_Input_InvalidEMail" finished-at="2024-07-22T03:34:49Z" duration-ms="62674" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(java.lang.reflect.Method)]]>
+                <![CDATA[public void com.ultimateqa.testcases.UltimateQA_Register_testcases.Test02_Input_InvalidEMail(java.lang.reflect.Method)]]>
               </value>
             </param>
           </params>
           <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: ///footer//*[contains(@id,'menu-footer-main-menu')]//*[contains(text(),'Java SDET Academy')] (tried for 30 second(s) with 500 milliseconds interval)]]>
+              <![CDATA[Expected condition failed: waiting for visibility of all elements located by By.xpath: //input[contains(@id,'email')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NSTF48G', ip: '172.26.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1660, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1267b3d-07a3-4ab9-9481-f91bdcffc599]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///footer//*[contains(@id,'menu-footer-main-menu')]//*[contains(text(),'Java SDET Academy')] (tried for 30 second(s) with 500 milliseconds interval)
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //input[contains(@id,'email')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NSTF48G', ip: '172.26.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1660, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1267b3d-07a3-4ab9-9481-f91bdcffc599
 at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
 at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at common.BasePage.waitForElementVisible(BasePage.java:602)
-at pageObject.ultimateQA.PageObjectUltimateQAautomation.verifyFooterVisible(PageObjectUltimateQAautomation.java:21)
-at com.ultimateqa.testcases.FirstTest_UltimateQA.Test02_VerifyFooter(FirstTest_UltimateQA.java:40)
+at common.BasePage.waitForAllElementsVisible(BasePage.java:625)
+at pageObject.ultimateQA.PageObjectRegister.inputValueField(PageObjectRegister.java:32)
+at com.ultimateqa.testcases.UltimateQA_Register_testcases.Test02_Input_InvalidEMail(UltimateQA_Register_testcases.java:54)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -80,46 +90,31 @@ at org.testng.TestNG.run(TestNG.java:1017)
 at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.InvalidSelectorException: Given xpath expression "///footer//*[contains(@id,'menu-footer-main-menu')]//*[contains(text(),'Java SDET Academy')]" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-NSTF48G', ip: '172.22.128.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23604, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 3287cdad-57ef-47c7-9ffe-f3788f89707b
-*** Element info: {Using=xpath, value=///footer//*[contains(@id,'menu-footer-main-menu')]//*[contains(text(),'Java SDET Academy')]}
-at jdk.internal.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
 ]]>
             </full-stacktrace>
           </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
             <line>
-              <![CDATA[<br><a target="_blank" href="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png"><img src="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_VerifyFooter_20_07_2024_02_21_52.png" height='100' width='150'/> </a></br>]]>
+              <![CDATA[<br><a target="_blank" href="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_Input_InvalidEMail_22_07_2024_10_34_49.png"><img src="file:///C:\Users\Admin\Documents\InforTrack_UltimateQA\reportNGImage\Test02_Input_InvalidEMail_22_07_2024_10_34_49.png" height='100' width='150'/> </a></br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- Test02_VerifyFooter -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.ultimateqa.testcases.FirstTest_UltimateQA@7cf6a5f9]" started-at="2024-07-20T07:21:52Z" name="afterClass" finished-at="2024-07-20T07:21:53Z" duration-ms="535" status="PASS">
+        </test-method> <!-- Test02_Input_InvalidEMail -->
+        <test-method signature="Test03_Input_InvalidPassword(java.lang.reflect.Method)[pri:0, instance:com.ultimateqa.testcases.UltimateQA_Register_testcases@7cf6a5f9]" started-at="2024-07-22T03:34:51Z" name="Test03_Input_InvalidPassword" finished-at="2024-07-22T03:34:51Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ultimateqa.testcases.UltimateQA_Register_testcases.Test03_Input_InvalidPassword(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03_Input_InvalidPassword -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.ultimateqa.testcases.UltimateQA_Register_testcases@7cf6a5f9]" started-at="2024-07-22T03:34:51Z" name="afterClass" finished-at="2024-07-22T03:34:51Z" duration-ms="588" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.ultimateqa.testcases.FirstTest_UltimateQA -->
+      </class> <!-- com.ultimateqa.testcases.UltimateQA_Register_testcases -->
     </test> <!-- Run on Firefox -->
-  </suite> <!-- Nopcommerce -->
+  </suite> <!-- Ultimate QA -->
 </testng-results>
