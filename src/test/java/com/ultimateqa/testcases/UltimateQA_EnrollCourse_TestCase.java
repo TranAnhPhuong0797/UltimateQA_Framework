@@ -23,51 +23,37 @@ public class UltimateQA_EnrollCourse_TestCase extends BaseTest{
 
 		
 		//Preconditions
-		log.info("Preconditions - Step 01: Navigate to Register Page");
+		log.info("Preconditions - Step 01: Sign in user");
 	}
 
 
 	@Test
-	public void Searh_01_Search_With_Empty_Data(Method method) {
-		ExtentTestManagerV5.startTest(method.getName(), "Search with empty data");
-		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: Navigate to Search page");
-
-	}
-	
-	@Test
-	public void Searh_02_Search_With_Data_NOT_Exist(Method method) {
-		ExtentTestManagerV5.startTest(method.getName(), "Search with data not exist");
-		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: Input product not exist in the search field");
+	public void Test_01(Method method) {
+		ExtentTestManagerV5.startTest(method.getName(), "Detail Product");
+		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: ");
 
 	}
 	
 	@Test
-	public void Searh_03_Search_With_Product_Name_Relative(Method method) {
-		ExtentTestManagerV5.startTest(method.getName(), "Search with product name relative");
-		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: Input product not exist in the search field");
+	public void Test_02(Method method) {
+		ExtentTestManagerV5.startTest(method.getName(), "Detail Product");
+		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: ");
 
 	}
 	
 	@Test
-	public void Searh_04_Search_With_Product_Name_Adsolute(Method method) {
-		ExtentTestManagerV5.startTest(method.getName(), "Search with product name adsolute");
-		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: Input product not exist in the search field");
+	public void Test_03(Method method) {
+		ExtentTestManagerV5.startTest(method.getName(), "Detail Product");
+		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: ");
+
+	}
+	
+	@Test
+	public void Test_04_(Method method) {
+		ExtentTestManagerV5.startTest(method.getName(), "Detail Product");
+		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: ");
 	}
 		
-	
-	@Test
-	public void Searh_05_Advanced_Search_With_Paren_Categories(Method method) {
-		ExtentTestManagerV5.startTest(method.getName(), "Search with paren category");
-		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: Input value in Search textbox");
-
-	}
-	
-	@Test
-	public void Searh_06_Advanced_Search_With_SubCategories(Method method) {
-		ExtentTestManagerV5.startTest(method.getName(), "Search with sub categories");
-		ExtentTestManagerV5.getTest().log(Status.INFO, "Search Page - Step 01: Input value in Search textbox");
-
-	}
 	
 	
 	
