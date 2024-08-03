@@ -13,12 +13,10 @@
 	<test name="Run on Firefox">
 		<parameter name="browser" value="firefox"></parameter>
 		<classes>
-			<class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Login_TestCase" />
-			<class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Register_TestCase" />
-			<class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Search_TestCase" />
-			<class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_MyAccount_TestCase" />
-			<class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Sort_Display_Paging_TestCase" />
-			<class name="com.nopcommerce.user.livecoding.LiveCoding_nopcommerce_Wishlist_Compare_RecentView" />
+			<class name="com.ultimateqa.testcases.UltimateQA_Register_testcases" />
+			<class name="com.ultimateqa.testcases.UltimateQA_Register_testcases" />
+			<class name="com.ultimateqa.testcases.UltimateQA_Register_testcases" />
+			<class name="com.ultimateqa.testcases.UltimateQA_Register_testcases" />
 		</classes>
 	</test>
 

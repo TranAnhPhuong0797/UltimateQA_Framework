@@ -1,4 +1,4 @@
-package com.nopcommerce.data;
+package com.ultimateqa.data;
 
 import java.io.File;
 import java.util.List;

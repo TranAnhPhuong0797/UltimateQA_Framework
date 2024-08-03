@@ -9,7 +9,7 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.Status;
-import com.nopcommerce.data.UserData;
+import com.ultimateqa.data.UserData;
 
 import common.BaseTest;
 import pageObject.ultimateQA.PageGeneratorManager;
