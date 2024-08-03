@@ -2,6 +2,7 @@
 ## Appendium
 * Overview
 * Installation
+* Execution
 
 
 ## Overview
@@ -18,3 +19,8 @@
 * Download JDK version 11 or 17
 * Download Maven 3.6.3
 * Setup system environment variable for JavaHome & MavenHome
+
+## Execution
+* Access to folder Resources -> run_UltimateQA
+* Open file "runUltimateQAest.xml" if you want to run a single test
+* Open file "runUltimateQAParallelTest.xml" if you want to run parallel tests
