@@ -24,3 +24,4 @@
 * Access to folder Resources -> run_UltimateQA
 * Open file "runUltimateQAest.xml" if you want to run a single test
 * Open file "runUltimateQAParallelTest.xml" if you want to run parallel tests
+* After the complete run, you can check the result in the folder "extendV5". NOTE: before open the HTML file, you need to refresh this folder
